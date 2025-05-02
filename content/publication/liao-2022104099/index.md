@@ -3,7 +3,7 @@ title: Advances in hexagon mesh-based flow direction modeling
 authors:
 - Chang Liao
 - Tian Zhou
-- Donghui Xu
+- admin
 - Richard Barnes
 - Gautam Bisht
 - Hong-Yi Li

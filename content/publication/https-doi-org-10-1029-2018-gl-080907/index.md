@@ -2,7 +2,7 @@
 title: Estimation of Evapotranspiration of Amazon Rainforest Using the Maximum Entropy
   Production Method
 authors:
-- Donghui Xu
+- admin
 - Elizabeth Agee
 - Jingfeng Wang
 - Valeriy Y. Ivanov

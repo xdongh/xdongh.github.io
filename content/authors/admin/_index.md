@@ -89,7 +89,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-05-01
-    date_end: 2022-11-31
+    date_end: 2022-11-30
     summary: |2-
 
 # Skills

@@ -1,0 +1,45 @@
+---
+title: Interactions Between Climate Mean and Variability Drive Future Agroecosystem
+  Vulnerability
+authors:
+- Eva Sinha
+- Donghui Xu
+- Kendalynn A. Morris
+- Beth A. Drewniak
+- Ben Bond-Lamberty
+date: '2025-01-01'
+publishDate: '2025-05-02T05:27:35.044964Z'
+publication_types:
+- article-journal
+publication: '*Global Change Biology*'
+doi: https://doi.org/10.1111/gcb.70064
+abstract: ABSTRACT Agriculture is crucial for global food supply and dominates the
+  Earth's land surface. It is unknown, however, how slow but relentless changes in
+  climate mean state, versus random extreme conditions arising from changing variability,
+  will affect agroecosystems' carbon fluxes, energy fluxes, and crop production. We
+  used an advanced weather generator to partition changes in mean climate state versus
+  variability for both temperature and precipitation, producing forcing data to drive
+  factorial-design simulations of US Midwest agricultural regions in the Energy Exascale
+  Earth System Model. We found that an increase in temperature mean lowers stored
+  carbon, plant productivity, and crop yield, and tends to convert agroecosystems
+  from a carbon sink to a source, as expected; it also can cause local to regional
+  cooling in the earth system model through its effects on the Bowen Ratio. The combined
+  effect of mean and variability changes on carbon fluxes and pools was nonlinear,
+  that is, greater than each individual case. For instance, gross primary production
+  reduces by 9%, 1%, and 13% due to change in mean temperature, change in temperature
+  variability, and change in both temperature mean and variability, respectively.
+  Overall, the scenario with change in both temperature and precipitation means leads
+  to the largest reduction in carbon fluxes (−16% gross primary production), carbon
+  pools (−35% vegetation carbon), and crop yields (−33% and −22% median reduction
+  in yield for corn and soybean, respectively). By unambiguously parsing the effects
+  of changing climate mean versus variability and quantifying their nonadditive impacts,
+  this study lays a foundation for more robust understanding and prediction of agroecosystems'
+  vulnerability to 21st-century climate change.
+tags:
+- agroecosystem
+- climate impact
+- nonlinear
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70064
+---

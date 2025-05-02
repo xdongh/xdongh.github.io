@@ -4,7 +4,7 @@ authors:
 - Dalei Hao
 - Gautam Bisht
 - Hailong Wang
-- Donghui Xu
+- admin
 - Huilin Huang
 - Yun Qian
 - L. Ruby Leung

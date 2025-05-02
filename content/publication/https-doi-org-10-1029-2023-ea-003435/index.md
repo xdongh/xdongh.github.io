@@ -15,7 +15,7 @@ authors:
 - Alexandr Sokolov
 - Victor Valdayskikh
 - Valeriy Ivanov
-date: '2024-01-01'
+date: '2024-03-01'
 publishDate: '2025-05-02T05:27:35.090267Z'
 publication_types:
 - article-journal

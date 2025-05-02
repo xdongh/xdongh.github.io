@@ -2,7 +2,7 @@
 title: Using a surrogate-assisted Bayesian framework to calibrate the runoff-generation
   scheme in the Energy Exascale Earth System Model (E3SM) v1
 authors:
-- D. Xu
+- admin
 - G. Bisht
 - K. Sargsyan
 - C. Liao

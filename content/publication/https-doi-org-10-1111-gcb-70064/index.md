@@ -3,7 +3,7 @@ title: Interactions Between Climate Mean and Variability Drive Future Agroecosys
   Vulnerability
 authors:
 - Eva Sinha
-- Donghui Xu
+- admin
 - Kendalynn A. Morris
 - Beth A. Drewniak
 - Ben Bond-Lamberty

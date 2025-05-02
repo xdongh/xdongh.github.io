@@ -2,7 +2,7 @@
 title: Development of Land-River Two-Way Hydrologic Coupling for Floodplain Inundation
   in the Energy Exascale Earth System Model
 authors:
-- Donghui Xu
+- admin
 - Gautam Bisht
 - Tian Zhou
 - L. Ruby Leung

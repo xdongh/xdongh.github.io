@@ -1,11 +1,11 @@
 ---
 title: On the use of observations in assessment of multi-model climate ensemble
 authors:
-- Donghui Xu
+- admin
 - Valeriy Y. Ivanov
 - Jongho Kim
 - Simone Fatichi
-date: '2019-12-01'
+date: '2018-11-13'
 publishDate: '2025-05-02T05:27:35.196225Z'
 publication_types:
 - article-journal

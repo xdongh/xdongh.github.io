@@ -4,7 +4,7 @@ title: 'Topological Relationship-Based Flow Direction Modeling: Stream Burning a
 authors:
 - Chang Liao
 - Tian Zhou
-- Donghui Xu
+- admin
 - Zeli Tan
 - Gautam Bisht
 - Matthew G. Cooper

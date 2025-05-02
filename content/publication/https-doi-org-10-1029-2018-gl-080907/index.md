@@ -25,12 +25,22 @@ abstract: Abstract Energy budget of Amazonian forests has a large influence on r
   skill of the MEP method make it an attractive approach for environments with diverse
   strategies of water flux control.
 tags:
-- evapotranspiration
-- maximum entropy production
+- Evapotranspiration
+- Maximum entropy production
 - Amazon rainforest
-- water stress
-- remote sensing
+- Water stress
+- Remote sensing
+featured: true
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080907
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
 ---
+
+Evapotranspiration is the exchange of water vapor between land and the atmosphere, and it is hard to measure and model. This study shows promise for its estimation over large, vegetated landscapes using [Maximum Entropy Production](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3sIwzkgAAAAJ&citation_for_view=3sIwzkgAAAAJ:ufrVoPGSRksC) theory.

@@ -3,7 +3,7 @@ title: Disentangling the hydrological and hydraulic controls on streamflow varia
   in Energy Exascale Earth System Model (E3SM) V2 -- a case study in the Pantanal
   region
 authors:
-- D. Xu
+- admin
 - G. Bisht
 - Z. Tan
 - C. Liao

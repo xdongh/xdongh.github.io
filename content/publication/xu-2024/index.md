@@ -2,7 +2,7 @@
 title: Climate change will reduce North American inland wetland areas and disrupt
   their seasonal regimes
 authors:
-- Donghui Xu
+- admin
 - Gautam Bisht
 - Zeli Tan
 - Eva Sinha
@@ -30,7 +30,39 @@ abstract: Climate change can alter wetland extent and function, but such impacts
   as warmer temperature reduces soil ice. The large dependence of the projections
   on climate change scenarios underscores the importance of emission mitigation to
   sustaining wetland ecosystems in the future.
+tags:
+- Earth System Model
+featured: true
 links:
 - name: URL
   url: https://doi.org/10.1038/s41467-024-45286-z
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
+
+In this work, we developed a sub-grid infiltration scheme to improve the pluvial inundation process in [E3SM](https://github.com/E3SM-Project/E3SM).
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

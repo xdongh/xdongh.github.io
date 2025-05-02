@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '💧My Research☀️'
       subtitle: ''
       text: |-
         My research focuses on advancing our understanding and prediction of hydrological systems in the context of climate change and increasing human activity. With global warming and extreme events like floods, droughts, and heat waves posing growing threats to both ecosystems and communities, I aim to enhance the modeling of the hydrological cycle and assess its sensitivity to a changing climate from regional to global scales. By leveraging process-based hydrological models, Earth System Models (ESMs), and statistical approaches, my work seeks to improve the accuracy of predictions that inform critical decisions in water resources management, energy system resilience, and climate adaptation. My research not only addresses fundamental questions in hydrology but also aims to develop practical solutions that contribute to resilience in the face of evolving climate and environmental challenges.

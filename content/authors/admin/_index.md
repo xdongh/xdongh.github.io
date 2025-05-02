@@ -77,7 +77,7 @@ education:
 
 work:
   - position: Earth Scientist
-    company_name: PNNL
+    company_name: Pacific Northwest National Laboratory
     company_url: ''
     company_logo: ''
     date_start: 2022-12-01
@@ -85,7 +85,7 @@ work:
     summary: |2-
 
   - position: Postdoc Research Associate 
-    company_name: X
+    company_name: Pacific Northwest National Laboratory
     company_url: ''
     company_logo: ''
     date_start: 2020-05-01

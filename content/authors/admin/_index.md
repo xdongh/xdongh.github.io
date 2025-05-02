@@ -166,4 +166,4 @@ languages:
 
 ## About Me
 
-<p style="color: black;">I am a reserach scientist at the Pacific Northwest National Laboratory..</p>
+I am a reserach scientist at the Pacific Northwest National Laboratory.

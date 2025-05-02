@@ -4,7 +4,7 @@ authors:
 - Dongyu Feng
 - Zeli Tan
 - Sebastien Pinel
-- Donghui Xu
+- admin
 - João Henrique Fernandes Amaral
 - Alice César Fassoni-Andrade
 - Marie-Paule Bonnet

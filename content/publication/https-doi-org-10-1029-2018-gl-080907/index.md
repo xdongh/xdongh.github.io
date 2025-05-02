@@ -43,4 +43,4 @@ image:
 
 ---
 
-Evapotranspiration is the exchange of water vapor between land and the atmosphere, and it is hard to measure and model. This study shows promise for its estimation over large, vegetated landscapes using [Maximum Entropy Production](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3sIwzkgAAAAJ&citation_for_view=3sIwzkgAAAAJ:ufrVoPGSRksC) theory.
+Evapotranspiration is the exchange of water vapor between land and the atmosphere, and it is hard to measure and model. This study shows promise for its estimation over large, vegetated landscapes using [Maximum Entropy Production](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010WR009392) theory.

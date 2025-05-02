@@ -1,7 +1,7 @@
 ---
 title: Energy Surplus and an Atmosphere-Land-Surface “Tug of War” Control Future Evapotranspiration
 authors:
-- Donghui Xu
+- admin
 - Valeriy Y. Ivanov
 - Elizabeth Agee
 - Jingfeng Wang

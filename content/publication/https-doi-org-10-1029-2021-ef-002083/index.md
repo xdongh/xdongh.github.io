@@ -1,7 +1,7 @@
 ---
 title: Peak Runoff Timing Is Linked to Global Warming Trajectories
 authors:
-- Donghui Xu
+- admin
 - Valeriy Y. Ivanov
 - Xiuyuan Li
 - Tara J. Troy

@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: 17E66C4E-8857-4B85-9E7A-60983235218B_1_201_a.jpeg

@@ -8,7 +8,7 @@ authors:
 - Jingfeng Wang
 - Modi Zhu
 - Khachik Sargsyan
-- Donghui Xu
+- admin
 - Desheng Liu
 - Tianqi Zhang
 - Valeriy Mazepa
